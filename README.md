@@ -166,6 +166,4 @@ Works in all modern browsers with Canvas API support:
 - Firefox 88+
 - Safari 14+
 
-## License
 
-MIT
